@@ -7,7 +7,7 @@ class MemeGenerator extends Component {
       topText: '',
       bottomText: '',
       altText: '',
-      randomImg: 'https://memegen.link/buzz/memes/memes_everywhere.jpg',
+      randomImg: 'https://i.imgflip.com/2hgfw.jpg',
       allMemeImgs: [],
     };
     //bind the handleChange function
